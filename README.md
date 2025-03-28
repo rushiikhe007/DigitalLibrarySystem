@@ -51,8 +51,7 @@ Upon running, the application displays a menu:
 Follow the prompts to interact with the system.
 
 ## Author
-Rushikesh
+Rushikesh Ikhe
 
-## License
-This project is licensed under the MIT License.
+
 
